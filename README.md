@@ -1,6 +1,17 @@
-# -Apple-New
+# -Apple-New快捷指令使用教程
 
-**⚠️该过程会将你的系统地图从高德地图切换成国外的TOMTOM地图数据。**
+请将下列分流导入例如Quantumult X的应用
+**⚠️该分流会将你的系统地图从高德地图切换成国外的TOMTOM地图数据。**
+
+# > Apple News and Apple Map TOMTOM Version
+DOMAIN,gspe1-ssl.ls.apple.com,PROXY
+USER-AGENT,AppleNews*,PROXY
+USER-AGENT,com.apple.news*,PROXY
+DOMAIN-SUFFIX,apple.news,PROXY
+DOMAIN,news-client.apple.com,PROXY
+DOMAIN,news-edge.apple.com,PROXY
+DOMAIN,news-events.apple.com,PROXY
+DOMAIN,apple.comscoreresearch.com,PROXY
 
 ⚠️请设置手机地区与订阅 Apple news地区一致
 ⚠️脚本运行完成后立即关闭系统自带地图。并且不要在使用蜂窝数据时打开系统自带地图，否则立马失效。
