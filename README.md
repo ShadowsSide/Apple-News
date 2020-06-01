@@ -1,9 +1,9 @@
 # -Apple-New快捷指令使用教程
 
-请将下列分流导入例如Quantumult X的应用
-**⚠️该分流会将你的系统地图从高德地图切换成国外的TOMTOM地图数据。**
+请将下列分流导入例如Quantumult X的应用（全局代理可略过）
+**⚠️该分流会将你的系统地图从高德地图切换成国外的TOMTOM地图数据。** 无解
 
-# > Apple News and Apple Map TOMTOM Version
+#.Apple News and Apple Map TOMTOM Version
 DOMAIN,gspe1-ssl.ls.apple.com,PROXY
 USER-AGENT,AppleNews*,PROXY
 USER-AGENT,com.apple.news*,PROXY
