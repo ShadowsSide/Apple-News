@@ -1,4 +1,4 @@
-# Apple-New快捷指令使用教程 
+# Apple-News快捷指令使用教程 
 
 💗请前往我的机器人或者Github发Issues反馈使用成功率以便我加以改进。
 
