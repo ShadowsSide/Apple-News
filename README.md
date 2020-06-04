@@ -16,7 +16,7 @@
 
 IOS快捷指令：https://www.icloud.com/shortcuts/7b23515d4a314a4582ac50e241159ac5
 
-搬运的Apple-News分流:https://raw.githubusercontent.com/ShadowsSide/Profiles/master/Quantumult/X/Filter/AppleNews.list  
+搬运的Apple-News分流（适用于Quantumult X类软件）:https://raw.githubusercontent.com/ShadowsSide/Profiles/master/Quantumult/X/Filter/AppleNews.list  
 
 Github：https://github.com/ShadowsSide/-Apple-New  
 Telegram bot:  @ShadowsSide_bot
