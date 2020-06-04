@@ -19,6 +19,6 @@ IOS快捷指令：https://www.icloud.com/shortcuts/7b23515d4a314a4582ac50e241159
 搬运的Apple-News分流:https://raw.githubusercontent.com/ShadowsSide/Profiles/master/Quantumult/X/Filter/AppleNews.list  
 
 Github：https://github.com/ShadowsSide/-Apple-New  
-Tg bot:  @ShadowsSide_bot
+Telegram bot:  @ShadowsSide_bot
 ![maze](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:20.jpg)
 ![maze](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:24.jpg)   
