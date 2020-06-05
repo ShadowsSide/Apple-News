@@ -1,6 +1,7 @@
 # Apple-News快捷指令使用教程 
 
-💗请前往我的机器人或者Github发Issues反馈使用成功率以便我加以改进。点上Star,Fork,Watching是对我最大的支持！❤️  
+👏欢迎前往我的机器人或者Github发Issues反馈使用成功率以便我加以改进。  
+❤️点上Star,Fork,Watching是对我最大的支持！❤️  
 
 #. 访问该页面时请勿打开Chrome的自动翻译，否则乱码。
 
