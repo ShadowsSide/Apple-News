@@ -17,7 +17,7 @@
 💁🏻‍ 请参考神规则设置Apple News的分流(全局代理也行)  
 ❤️如需更加便捷使用，可点击此脚本右上角"..."将本快捷指令添加到主屏幕。  
 
-IOS快捷指令：https://www.icloud.com/shortcuts/7b23515d4a314a4582ac50e241159ac5
+IOS快捷指令：https://www.icloud.com/shortcuts/1874f152342b4c22a2bb094fde23d217
 
 搬运的Apple-News分流（适用于Quantumult X类软件）:https://raw.githubusercontent.com/ShadowsSide/Profiles/master/Quantumult/X/Filter/AppleNews.list  
 
