@@ -1,7 +1,7 @@
 # Apple-News快捷指令使用教程 
 
 👏欢迎前往我的bot或者Issues区反馈使用成功率或解锁失败详情以便我加以改进。  
-Telegram bot:  @ShadowsSide_bot
+Telegram bot:  @ShadowsSide_bot  
 ❤️动动手点上Star是对我最大的支持！❤️  
 
 #. 访问该页面时请勿打开Chrome的自动翻译，否则乱码。
