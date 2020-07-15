@@ -17,7 +17,7 @@ IOS快捷指令：https://www.icloud.com/shortcuts/1874f152342b4c22a2bb094fde23d
 6. 脚本运行完成后自动打开那次通常会报错.请手动关闭News和系统自带地图后重新打开News即可正常浏览.
 7. Enjoy Apple News!
 
-###💁🏻‍ 请参考神规则设置Apple News的分流(全局代理也行)  
+### 💁🏻‍ 请参考神规则设置Apple News的分流(全局代理也行)  
 
 搬运的Apple-News分流（适用于Quantumult X类软件）:https://raw.githubusercontent.com/ShadowsSide/Profiles/master/Quantumult/X/Filter/AppleNews.list  
 
