@@ -24,6 +24,5 @@ IOS快捷指令：https://www.icloud.com/shortcuts/1874f152342b4c22a2bb094fde23d
 ❤️如需更加便捷使用，可点击此脚本右上角"..."将本快捷指令添加到主屏幕。  
 
  
-![maze](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:20.jpg)  width="200" height="200" alt="news"/><br/>
-
+<img src="https://github.com/ShadowsSide/Apple-News/blob/master/IMAGE%202020-06-02%2001:43:20.jpg"  width="200" height="200" alt="抖音小程序"/><br/>
 ![maze](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:24.jpg)   
