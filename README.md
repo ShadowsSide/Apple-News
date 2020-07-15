@@ -14,10 +14,10 @@ IOS快捷指令：https://www.icloud.com/shortcuts/1874f152342b4c22a2bb094fde23d
 3. 本脚本无法设置地区与定位设置.请在底部查看，并按照图片内容设置定位选项。（教程图片为设置➡️隐私➡️定位服务➡️系统服务. ）
 4. 如添加快捷指令时提示 "无法打开不受信任的快捷指令" .请先随便运行一个快捷指令并前往设置➡️快捷指令➡️允许不受信任的第三方快捷指令.  
 5. 脚本完成解锁后可以关闭飞行模式使用蜂窝数据继续浏览🥳.
-6. 脚本允许完成后自动打开那次通常会报错.请手动关闭News和系统自带地图后重新打开News即可正常浏览.
+6. 脚本运行完成后自动打开那次通常会报错.请手动关闭News和系统自带地图后重新打开News即可正常浏览.
 7. Enjoy Apple News!
 
-💁🏻‍ 请参考神规则设置Apple News的分流(全局代理也行)  
+###💁🏻‍ 请参考神规则设置Apple News的分流(全局代理也行)  
 
 搬运的Apple-News分流（适用于Quantumult X类软件）:https://raw.githubusercontent.com/ShadowsSide/Profiles/master/Quantumult/X/Filter/AppleNews.list  
 
