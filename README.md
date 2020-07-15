@@ -1,6 +1,7 @@
 # Apple-News快捷指令使用教程 
 
-👏欢迎前往我的机器人或者Github发Issues反馈使用成功率以便我加以改进。  
+👏欢迎前往我的bot或者Issues区反馈使用成功率或解锁失败详情以便我加以改进。  
+Telegram bot:  @ShadowsSide_bot
 ❤️动动手点上Star是对我最大的支持！❤️  
 
 #. 访问该页面时请勿打开Chrome的自动翻译，否则乱码。
@@ -20,8 +21,6 @@
 IOS快捷指令：https://www.icloud.com/shortcuts/1874f152342b4c22a2bb094fde23d217
 
 搬运的Apple-News分流（适用于Quantumult X类软件）:https://raw.githubusercontent.com/ShadowsSide/Profiles/master/Quantumult/X/Filter/AppleNews.list  
-
-Github：https://github.com/ShadowsSide/-Apple-New  
-Telegram bot:  @ShadowsSide_bot
+ 
 ![maze](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:20.jpg)
 ![maze](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:24.jpg)   
