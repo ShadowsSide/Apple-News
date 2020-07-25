@@ -1,13 +1,13 @@
 # Apple-News快捷指令使用教程 
 ## 访问该页面时请勿打开Chrome的自动翻译，否则乱码。 
 
-👏欢迎前往我的bot或者Issues区反馈使用成功率或解锁失败详情以便我加以改进。  
-Telegram bot:  @ShadowsSide_bot  
-#### ❤️动动手点上Star是对我最大的支持！❤️  
-#### 🌹赠人玫瑰,手有余香🌹  
+**👏欢迎前往我的bot或者Issues区反馈使用成功率或解锁失败详情以便我加以改进。**  
+**Telegram bot:  @ShadowsSide_bot**  
+**❤️动动手点上Star是对我最大的支持！❤️**  
+**🌹赠人玫瑰,手有余香🌹**  
 
 
-IOS快捷指令：https://www.icloud.com/shortcuts/1874f152342b4c22a2bb094fde23d217
+**IOS快捷指令：https://www.icloud.com/shortcuts/1874f152342b4c22a2bb094fde23d217**
 
 ## ⚠️ 使用须知:  
 1. 如添加快捷指令时提示 "无法打开不受信任的快捷指令" 请先随便运行一个快捷指令并前往设置➡️快捷指令➡️允许不受信任的第三方快捷指令.  
