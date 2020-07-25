@@ -4,7 +4,7 @@
 Telegram bot:  @ShadowsSide_bot  
 ❤️动动手点上Star是对我最大的支持！❤️  
 
-#. 访问该页面时请勿打开Chrome的自动翻译，否则乱码。
+## 访问该页面时请勿打开Chrome的自动翻译，否则乱码。
 
 IOS快捷指令：https://www.icloud.com/shortcuts/1874f152342b4c22a2bb094fde23d217
 
