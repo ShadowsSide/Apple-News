@@ -1,7 +1,5 @@
 # 🍎 Apple-News快捷指令使用教程 
 ## 访问该页面时请勿打开Chrome的自动翻译，否则乱码.
-**🐝非蜂窝版设备可无视该教程(没有读取到你的SIM运营商)**  
-**💻 Mac用户请往下翻**
 
 👏欢迎前往我的bot或者Issues区反馈使用成功率或解锁失败详情以便我加以改进。  
 🤖Telegram bot:  @ShadowsSide_bot  
@@ -11,7 +9,9 @@
 
 # 📱 iOS端 Apple-News
 **快捷指令地址:
-https://www.icloud.com/shortcuts/66caa5ddc614402fb2f4b7f915f270dd**
+https://www.icloud.com/shortcuts/66caa5ddc614402fb2f4b7f915f270dd**  
+**🐝非蜂窝版设备可无视该教程(没有读取到你的SIM运营商)**  
+**💻 Mac用户请往下翻**
 
 ## ⚠️ 使用须知:  
 1. 如添加快捷指令时提示 "无法打开不受信任的快捷指令" 请先随便运行一个快捷指令并前往设置➡️快捷指令➡️允许不受信任的第三方快捷指令.  
