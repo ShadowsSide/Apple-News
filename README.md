@@ -1,18 +1,18 @@
 # 🍎 Apple-News快捷指令使用教程 
-## 访问该页面时请勿打开Chrome的自动翻译，否则乱码.
+## 访问该页面时请勿打开浏览器的自动翻译，否则乱码.
 
 👏欢迎前往我的bot或者Issues区反馈使用成功率或解锁失败详情以便我加以改进。  
 🤖Telegram bot:  @ShadowsSide_bot  
 ❤️动动手点上Star是对我最大的支持！❤️  
 🌹赠人玫瑰,手有余香🌹  
 
-# 🔍查询你的国家/地区是否提供该服务:
+# 🔍查询您的Apple ID归属国家/地区是否提供该服务:
 **https://support.apple.com/zh-cn/HT204411**
 
 # 📱 iOS端 Apple-News:
-**快捷指令地址:
+**快捷指令地址(更新时间:2020.08.14):
 https://www.icloud.com/shortcuts/66caa5ddc614402fb2f4b7f915f270dd**  
-**🐝非蜂窝版设备可无视该教程(没有读取到你的SIM运营商)**  
+**🐝非蜂窝网络版设备可无视该教程(没有读取到你的SIM卡运营商)**  
 **💻 Mac用户请往下翻**
 
 ## ⚠️ 使用须知:  
@@ -27,12 +27,14 @@ https://www.icloud.com/shortcuts/66caa5ddc614402fb2f4b7f915f270dd**
 
 **PS:近期收到iOS14 Beta用户反馈无法控制WI-FI开关,可能为系统Bug,请等待官方修复!**
 
-## 💁🏻‍ 请参考神机规则设置Apple News的分流(全局代理也行)  
+### 💁🏻‍ 请参考神机规则设置Apple News的分流(全局代理也行)  
 
 搬运的Apple-News分流：  
 1.（适用于Quantumult X类软件）:https://raw.githubusercontent.com/ShadowsSide/Profiles/master/Quantumult/X/Filter/AppleNews.list  
+
 2.（适用于Surge）：https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/AppleNews.list  
-**⚠️分流添加完毕后请关闭软件代理并重启代理软件以确保分流能正常工作。**  
+
+**Tips:⚠️分流添加完毕后请关闭软件代理并重启代理软件以确保分流能正常工作。**  
 
 
 # 💻 Mac端 Apple-News:
