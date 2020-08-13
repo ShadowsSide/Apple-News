@@ -44,8 +44,7 @@ https://www.icloud.com/shortcuts/66caa5ddc614402fb2f4b7f915f270dd**
 2. 打开Apple News.  
 3. **Successful!** Enjoy Apple News!🎉
 
-
-### ❤️如需更加便捷使用，可点击此脚本右上角"..."将本快捷指令添加到主屏幕。  
+❤️如需更加便捷使用，可点击此脚本右上角"..."将本快捷指令添加到主屏幕。  
 
 # 📍 iOS定位设置图片 
 ![maze](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:20.jpg)
