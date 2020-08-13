@@ -25,11 +25,13 @@ https://www.icloud.com/shortcuts/66caa5ddc614402fb2f4b7f915f270dd**
 5. **脚本运行完成后自动打开那次通常会报错.请手动关闭News和系统自带地图后重新打开News即可正常浏览.（⚠️节点需选择提供Apple-News服务的地区，否则打开后仍会提示你所在的国家或地区不支持该服务）**
 6. 此捷径其中一步需开启飞行模式但鉴于手机型号/系统不同，带有WI-FI记忆模式的用户将不会自动断开WI-FI，请在运行捷径前先关闭WI-FI开关。（**暂时测得iPhone7往后的型号都需要先手动关闭WI-FI开关再运行此捷径。**） 
 7. 捷径完成解锁后可以关闭飞行模式使用蜂窝数据继续浏览🥳.
-8. Enjoy Apple News!🎉
+8. Enjoy Apple News!🎉  
 
-**PS:近期收到iOS14 Beta用户反馈无法控制WI-FI开关,可能为系统Bug,请等待官方修复!**
+❤️更便捷使用该捷径，可点击此脚本右上角"..."将本快捷指令添加到主屏幕。
 
-### 💁🏻‍ 请参考神机规则设置Apple News的分流(全局代理也行)  
+**PS:近期收到iOS14 Beta用户反馈无法控制WI-FI开关,可能为系统Bug,请等待官方修复!**   
+
+## 💁🏻‍ 请参考神机规则设置Apple News的分流(全局代理也行)  
 
 搬运的Apple-News分流：  
 1.（适用于Quantumult X类软件）:https://raw.githubusercontent.com/ShadowsSide/Profiles/master/Quantumult/X/Filter/AppleNews.list  
@@ -43,8 +45,7 @@ https://www.icloud.com/shortcuts/66caa5ddc614402fb2f4b7f915f270dd**
 1. 开启全局代理/使用分流(需要包括map域名),打开Mac端系统地图,系统将自动切换到TOMTOM提供的数据. 
 2. 打开Apple News.  
 3. **Successful!** Enjoy Apple News!🎉
-
-❤️如需更加便捷使用，可点击此脚本右上角"..."将本快捷指令添加到主屏幕。  
+ 
 
 # 📍 iOS定位设置图片 
 ![maze](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:20.jpg)
