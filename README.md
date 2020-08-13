@@ -49,7 +49,7 @@ https://www.icloud.com/shortcuts/66caa5ddc614402fb2f4b7f915f270dd**
 
 # 📍 iOS定位设置图片 
 
-**教程图片路径为: 设置➡️隐私➡️定位服务➡️系统服务.**
+**教程图片路径为: 设置➡️隐私➡️定位服务➡️系统服务.(若GitHub app端无法显示图片请前往网页版)**
 
 ![教程图片1](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:20.jpg)
 ![教程图片2](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:24.jpg)   
