@@ -7,7 +7,7 @@
 **❤️动动手点上Star是对我最大的支持！❤️**  
 **🌹赠人玫瑰,手有余香🌹**  
 
-## 📱 iOS端 Apple News
+# 📱 iOS端 Apple News
 **快捷指令地址:
 https://www.icloud.com/shortcuts/66caa5ddc614402fb2f4b7f915f270dd**
 
@@ -28,7 +28,7 @@ https://www.icloud.com/shortcuts/66caa5ddc614402fb2f4b7f915f270dd**
 2.（适用于Surge）：https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/AppleNews.list  
 **⚠️分流添加完毕后请关闭软件代理并重启代理软件以确保分流能正常工作。**  
 
-## 💻 Mac端 Apple News
+# 💻 Mac端 Apple News
 1. 开启全局代理/使用分流(需要包括map域名),打开Mac端系统地图,系统将自动切换到TOMTOM提供的数据. 
 2. 打开Apple News.  
 3. **Successful!** Enjoy Apple News!🎉
