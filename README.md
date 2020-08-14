@@ -2,7 +2,7 @@
 ## 访问该页面时请勿打开浏览器的自动翻译，否则乱码.
 
 👏 欢迎前往我的bot或者Issues区反馈使用成功率或解锁失败详情以便我加以改进。  
-🤖 Telegram bot:  @ShadowsSide_bot  
+🤖 Telegram bot:  @ShadowsSide_bot  频道: @GodlyNews1
 ❤️ 动动手点上Star是对我最大的支持！❤️  
 🌹 赠人玫瑰,手有余香 🌹  
 
