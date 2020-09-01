@@ -11,7 +11,7 @@
 **https://support.apple.com/zh-cn/HT204411**
 
 # 📱 iOS端 Apple-News:
-**快捷指令地址(更新时间:2020.08.16):
+**快捷指令地址(更新时间:2020.08.27):
 https://www.icloud.com/shortcuts/92e417c31cad49678c78974e56902796**  
 
 **🐝 非蜂窝网络版设备可无视该教程(没有读取到你的SIM卡运营商)**  
