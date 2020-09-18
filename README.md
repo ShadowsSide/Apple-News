@@ -12,7 +12,7 @@
 
 # 📱 iOS端 Apple-News:
 **快捷指令地址(更新时间:2020.09.18)**:
-* https://www.icloud.com/shortcuts/e885809407bf492281c7b3b022bc40aa 
+* **https://www.icloud.com/shortcuts/e885809407bf492281c7b3b022bc40aa**  
 
 **🐝 非蜂窝网络版设备可无视该教程(没有读取到你的SIM卡运营商)**  
 
