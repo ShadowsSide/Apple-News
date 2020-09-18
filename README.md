@@ -46,7 +46,7 @@
 
 * （适用于Surge）：https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/AppleNews.list  
 
-* (apple相关服务分流):  https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Apple.list 
+*  (apple相关服务分流):  https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Apple.list 
 
 **Tips:⚠️分流添加完毕后请关闭软件代理并重启代理软件以确保分流能正常工作。**  
 
