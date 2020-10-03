@@ -42,11 +42,11 @@
 ## 💁🏻‍ 请参考神机规则设置Apple News的分流(全局代理也行)  
  
 搬运的Apple-News分流：  
-* (适用于Quantumult X类软件):https://raw.githubusercontent.com/ShadowsSide/Profiles/master/Quantumult/X/Filter/AppleNews.list  
+* (适用于Quantumult X类软件):https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/News.list
 
-* (适用于Surge): https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/AppleNews.list  
+* (适用于Surge): https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/News.list
 
-* (apple相关服务分流):  https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Apple.list 
+* (apple相关服务分流):  https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list
 
 **Tips:⚠️分流添加完毕后请关闭软件代理并重启代理软件以确保分流能正常工作。**  
 
