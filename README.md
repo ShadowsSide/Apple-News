@@ -10,13 +10,13 @@
 # 🔍查询您的Apple ID归属国家/地区是否提供该服务:
 * **https://support.apple.com/zh-cn/HT204411**  
 
-# 📱 iOS端 Apple-News:
+# 📱 iOS端 Apple-News:(更新时间:2020.10.11)    
 
-(更新时间:2020.10.11)  
+**快捷指令 完整版:**  
+* https://www.icloud.com/shortcuts/e74e9d722beb45c78dfab7e47ed82465
 
-* [快捷指令 完整版](https://www.icloud.com/shortcuts/e74e9d722beb45c78dfab7e47ed82465)   
-
-* [快捷指令 简化版](https://www.icloud.com/shortcuts/381635d80b46402b953b85625ecc69ca)**(此捷径去除了必要的前置设置提示,极速解锁.从未使用过捷径的请先使用完整版)**   
+**快捷指令 简化版:(此捷径去除了必要的前置设置提示,极速解锁.从未使用过捷径的请先使用完整版)**    
+* https://www.icloud.com/shortcuts/381635d80b46402b953b85625ecc69ca 
 
 **🐝 非蜂窝网络版设备可无视该教程(没有读取到你的SIM卡运营商)**  
 
