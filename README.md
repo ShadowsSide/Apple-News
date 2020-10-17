@@ -1,5 +1,5 @@
 # 🍎 Apple-News快捷指令使用教程 
-> 访问该页面时请勿打开浏览器的自动翻译，否则乱码.
+> 访问该页面时请勿打开浏览器的自动翻译，否则网页会乱码.
 
  👏 欢迎前往我的bot或者Issues区反馈使用成功率或解锁失败详情以便我加以改进。  
  🤖 Telegram bot:  @ShadowsSide_bot  
@@ -45,9 +45,9 @@
 ## 💁🏻‍ 请参考神机规则设置Apple News的分流(全局代理也行)  
  
 搬运的Apple-News分流：  
-* (适用于Quantumult X类软件):https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/News.list
+* (适用于Quantumult X):https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/News.list
 
-* (适用于Surge): https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/News.list
+* (适用于Surge/Loon): https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/News.list
 
 * (apple相关服务分流):  https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list
 
@@ -61,11 +61,10 @@
 3. 打开Apple News.  
 4. Successful,Enjoy Apple News!🎉
 
-* **若单独添加Apple News分流无效,可尝试添加Apple相关服务分流,里面包含了HOST-SUFFIX,apple.com可避免遗漏导致无法使用.**
+* **若单独添加Apple News分流无效,可尝试添加Apple相关服务分流,里面包含了HOST-SUFFIX,apple.com可避免因遗漏导致无法使用.**
 
 # 📍 iOS定位设置图片 
 
-**教程图片路径为: 设置➡️隐私➡️定位服务➡️系统服务.(若GitHub app端无法显示图片请前往网页版)**
-
+**教程图片路径为: 设置➡️隐私➡️定位服务➡️系统服务.(若iOS的GitHub app端无法显示图片请前往网页版,若直连GitHub也有可能导致图片无法正常显示.)**
 ![教程图片1](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:20.jpg)
 ![教程图片2](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:24.jpg)   
