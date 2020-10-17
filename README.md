@@ -56,7 +56,7 @@
 
 # 💻 Mac端 Apple-News:  
 
-1. 前往系统偏好设置➡️语言与地区➡️将地区更改为美国. Apple News的App将自动出现.
+1. 前往系统偏好设置➡️语言与地区➡️将地区更改为美国. Apple News的App将自动出现. 若Apple News图标未自动出现在桌面,可尝试前往:https://news.apple.com/ 点击免费试用一个月将自动跳转并出现App.  
 2. 开启全局代理/使用分流(需要包括map域名:HOST-SUFFIX,gspe21-ssl.ls.apple.com),打开Mac端系统地图,系统将自动切换到TOMTOM提供的数据. 
 3. 打开Apple News.  
 4. Successful,Enjoy Apple News!🎉
