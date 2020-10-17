@@ -54,13 +54,14 @@
 **Tips:⚠️分流添加完毕后请关闭软件代理并重启代理软件以确保分流能正常工作。**  
 
 
-# 💻 Mac端 Apple-News:
+# 💻 Mac端 Apple-News:  
 
-1. 开启全局代理/使用分流(需要包括map域名:HOST-SUFFIX,gspe21-ssl.ls.apple.com),打开Mac端系统地图,系统将自动切换到TOMTOM提供的数据. 
-2. 打开Apple News.  
-3. Successful,Enjoy Apple News!🎉
+1. 前往系统偏好设置➡️语言与地区➡️将地区更改为美国. Apple News的App将自动出现.
+2. 开启全局代理/使用分流(需要包括map域名:HOST-SUFFIX,gspe21-ssl.ls.apple.com),打开Mac端系统地图,系统将自动切换到TOMTOM提供的数据. 
+3. 打开Apple News.  
+4. Successful,Enjoy Apple News!🎉
 
-* **建议直接使用apple相关服务分流,里面包含了HOST-SUFFIX,apple.com可避免遗漏导致无法使用.**
+* **若单独添加Apple News分流无效,可尝试添加Apple相关服务分流,里面包含了HOST-SUFFIX,apple.com可避免遗漏导致无法使用.**
 
 # 📍 iOS定位设置图片 
 
