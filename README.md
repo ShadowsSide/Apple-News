@@ -1,11 +1,11 @@
-![Apple-News](https://socialify.git.ci/ShadowsSide/Apple-News/image?description=1&descriptionEditable=%F0%9F%94%8D%20iOS%E5%92%8CMac%E7%AB%AF%E4%BD%BF%E7%94%A8Apple-News.%0A%E8%AE%BF%E9%97%AE%E8%AF%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E8%AF%B7%E5%8B%BF%E6%89%93%E5%BC%80%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91%EF%BC%8C%E5%90%A6%E5%88%99%E7%BD%91%E9%A1%B5%E4%BC%9A%E4%B9%B1%E7%A0%81.&font=Source%20Code%20Pro&logo=https%3A%2F%2Fvkceyugu.cdn.bspapp.com%2FVKCEYUGU-imgbed%2Fc5ee90d1-3a9a-4264-8887-f9b94ea0756b.PNG&owner=1&pattern=Diagonal%20Stripes&theme=Dark)
+![Apple-News](https://socialify.git.ci/ShadowsSide/Apple-News/image?description=1&descriptionEditable=%F0%9F%94%8D%20iOS%E5%92%8CMac%E7%AB%AF%E4%BD%BF%E7%94%A8Apple-News.%0A%E8%AE%BF%E9%97%AE%E8%AF%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E8%AF%B7%E5%8B%BF%E6%89%93%E5%BC%80%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91%EF%BC%8C%E5%90%A6%E5%88%99%E7%BD%91%E9%A1%B5%E4%BC%9A%E4%B9%B1%E7%A0%81.&font=Source%20Code%20Pro&logo=https%3A%2F%2Fvkceyugu.cdn.bspapp.com%2FVKCEYUGU-imgbed%2Fc5ee90d1-3a9a-4264-8887-f9b94ea0756b.PNG&owner=1&pattern=Diagonal%20Stripes&theme=Dark)  
 
 # 交流
-[![](/icon/join-telegram.jpg)](https://t.me/GodlyNews1)
- 🤖 Telegram bot:  @ShadowsSide_bot  
- 🧾 我的频道: @GodlyNews1  
- ❤️ 动动手点上Star是对我最大的支持！❤️  
- 🌹 赠人玫瑰,手有余香 🌹  
+讨论组:[<img width="200px" src="icon/join-telegram.png" />](https://t.me/GodlyGroup)
+频道:[<img width="200px" src="icon/join-telegram.png" />](https://t.me/GodlyNews1)
+反馈bot:[<img width="200px" src="icon/Telegram-Bot.jpg" />](https://t.me/ShadowsSide_bot)
+
+
 
 # 🔍查询您的Apple ID归属国家/地区是否提供该服务:
 * **https://support.apple.com/zh-cn/HT204411**  
@@ -70,5 +70,5 @@
 # 📍 iOS定位设置图片 
 
 **教程图片路径为: 设置➡️隐私➡️定位服务➡️系统服务.(若iOS的GitHub app端无法显示图片请前往网页版,若直连GitHub也有可能导致图片无法正常显示.)**  
-![教程图片1](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:20.jpg)
-![教程图片2](https://github.com/ShadowsSide/-Apple-New/blob/master/IMAGE%202020-06-02%2001:43:24.jpg)   
+[<img width="500px" src="icon/screenshot1.jpg" />]
+[<img width="500px" src="icon/screenshot2.jpg" />]
