@@ -3,10 +3,12 @@
 > **访问该页面时请勿打开浏览器的自动翻译，否则网页会乱码.   欢迎🌟Star！❤️**  
 
 # 💬 交流
-
-讨论组:[<img width="200px" src="icon/join-telegram.png" />](https://t.me/GodlyGroup)
-频道:[<img width="200px" src="icon/join-telegram.png" />](https://t.me/GodlyNews1)
-反馈bot:[<img width="200px" src="icon/Telegram-Bot.jpg" />](https://t.me/ShadowsSide_bot)
+> 讨论组
+[<img width="150px" src="icon/join-telegram.png" />](https://t.me/GodlyGroup)  
+>  频道
+[<img width="150px" src="icon/join-telegram.png" />](https://t.me/GodlyNews1)  
+> 反馈bot
+[<img width="150px" src="icon/Telegram-Bot.jpg" />](https://t.me/ShadowsSide_bot)  
 
 
 
