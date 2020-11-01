@@ -1,7 +1,7 @@
-# 🍎 Apple-News快捷指令使用教程 
-> 访问该页面时请勿打开浏览器的自动翻译，否则网页会乱码.
+![Apple-News](https://socialify.git.ci/ShadowsSide/Apple-News/image?description=1&descriptionEditable=%F0%9F%94%8D%20iOS%E5%92%8CMac%E7%AB%AF%E4%BD%BF%E7%94%A8Apple-News.%0A%E8%AE%BF%E9%97%AE%E8%AF%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E8%AF%B7%E5%8B%BF%E6%89%93%E5%BC%80%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91%EF%BC%8C%E5%90%A6%E5%88%99%E7%BD%91%E9%A1%B5%E4%BC%9A%E4%B9%B1%E7%A0%81.&font=Source%20Code%20Pro&logo=https%3A%2F%2Fvkceyugu.cdn.bspapp.com%2FVKCEYUGU-imgbed%2Fc5ee90d1-3a9a-4264-8887-f9b94ea0756b.PNG&owner=1&pattern=Diagonal%20Stripes&theme=Dark)
 
- 👏 欢迎前往我的bot或者Issues区反馈使用成功率或解锁失败详情以便我加以改进。  
+# 交流
+[![](/icon/join-telegram.jpg)](https://t.me/GodlyNews1)
  🤖 Telegram bot:  @ShadowsSide_bot  
  🧾 我的频道: @GodlyNews1  
  ❤️ 动动手点上Star是对我最大的支持！❤️  
