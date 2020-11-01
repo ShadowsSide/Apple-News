@@ -1,6 +1,9 @@
-![Apple-News](https://socialify.git.ci/ShadowsSide/Apple-News/image?description=1&descriptionEditable=%F0%9F%94%8D%20iOS%E5%92%8CMac%E7%AB%AF%E4%BD%BF%E7%94%A8Apple-News.%0A%E8%AE%BF%E9%97%AE%E8%AF%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E8%AF%B7%E5%8B%BF%E6%89%93%E5%BC%80%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91%EF%BC%8C%E5%90%A6%E5%88%99%E7%BD%91%E9%A1%B5%E4%BC%9A%E4%B9%B1%E7%A0%81.&font=Source%20Code%20Pro&logo=https%3A%2F%2Fvkceyugu.cdn.bspapp.com%2FVKCEYUGU-imgbed%2Fc5ee90d1-3a9a-4264-8887-f9b94ea0756b.PNG&owner=1&pattern=Diagonal%20Stripes&theme=Dark)  
+![Apple-News](https://socialify.git.ci/ShadowsSide/Apple-News/image?description=1&descriptionEditable=%F0%9F%94%8D%20iOS%E5%92%8CMac%E7%AB%AF%E4%BD%BF%E7%94%A8Apple-News.%20%20%20%20%20%20%20%20%20&font=Source%20Code%20Pro&logo=https%3A%2F%2Fvkceyugu.cdn.bspapp.com%2FVKCEYUGU-imgbed%2Fc5ee90d1-3a9a-4264-8887-f9b94ea0756b.PNG&owner=1&pattern=Floating%20Cogs&theme=Dark)  
 
-# 交流
+> **访问该页面时请勿打开浏览器的自动翻译，否则网页会乱码.   欢迎🌟Star！❤️**  
+
+# 💬 交流
+
 讨论组:[<img width="200px" src="icon/join-telegram.png" />](https://t.me/GodlyGroup)
 频道:[<img width="200px" src="icon/join-telegram.png" />](https://t.me/GodlyNews1)
 反馈bot:[<img width="200px" src="icon/Telegram-Bot.jpg" />](https://t.me/ShadowsSide_bot)
@@ -12,7 +15,8 @@
 
 # 📱 iOS端 Apple-News:(更新时间:2020.10.11)    
 
-**快捷指令地址:(为完成前置设置的用户提供简化版,去除了必要的前置设置提示,耗时缩短,节约生命🐶.从未使用过捷径的请先使用完整版)**  
+**快捷指令地址:**
+> **为完成前置设置的用户提供简化版,去除了必要的前置设置提示,耗时缩短,节约生命🐶.从未使用过捷径的请先使用完整版**   
 
 * [完整版](https://www.icloud.com/shortcuts/e74e9d722beb45c78dfab7e47ed82465) / [简化版](https://www.icloud.com/shortcuts/381635d80b46402b953b85625ecc69ca)
 
@@ -33,7 +37,7 @@
 *  **脚本运行完成后自动打开那次通常会报错.请手动关闭News和系统自带地图后重新打开News即可正常浏览.（⚠️节点需选择提供Apple-News服务的地区，否则打开后仍会提示你所在的国家或地区不支持该服务）**  
 *  **若解锁失败可先尝试完全关闭WI-FI开关再运行快捷指令**  
 
-> 👉 点击此脚本右上角"..."将本快捷指令添加到主屏幕，可以更便捷使用该捷径。  
+> **👉 点击此脚本右上角"..."将本快捷指令添加到主屏幕，可以更便捷使用该捷径。**  
 
 ## ⁉️ 常见报错  
 
@@ -54,7 +58,7 @@
 
 * (apple相关服务分流):  https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list
 
-**Tips:⚠️ 分流添加完毕后请关闭软件代理并重启代理软件以确保分流能正常工作。**  
+> **建议分流添加完毕后关闭软件代理并重启代理软件以确保分流能正常工作。**  
 
 
 # 💻 Mac端 Apple-News:  
@@ -65,10 +69,10 @@
 4. 打开Apple News.  
 5. Successful,Enjoy Apple News!🎉  
 
-* **若单独添加Apple News分流无效,可尝试添加Apple相关服务分流,里面包含了HOST-SUFFIX,apple.com可避免因遗漏导致无法使用.若还是不在服务区域应考虑节点问题.**
+> **若单独添加Apple News分流无效,可尝试添加Apple相关服务分流,里面包含了HOST-SUFFIX,apple.com可避免因遗漏导致无法使用.若还是不在服务区域应考虑节点问题.**
 
 # 📍 iOS定位设置图片 
 
-**教程图片路径为: 设置➡️隐私➡️定位服务➡️系统服务.(若iOS的GitHub app端无法显示图片请前往网页版,若直连GitHub也有可能导致图片无法正常显示.)**  
+**教程图片路径为: 设置➡️隐私➡️定位服务➡️系统服务.(若iOS的GitHub app端无法显示图片请前往网页版,另外直连GitHub也有可能导致图片无法正常显示.)**  
 <img width="500px" src="icon/screenshot1.jpg" />
 <img width="500px" src="icon/screenshot2.jpg" />
