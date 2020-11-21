@@ -1,6 +1,8 @@
 ![Apple-News](https://socialify.git.ci/ShadowsSide/Apple-News/image?description=1&descriptionEditable=%F0%9F%94%8D%20iOS%E5%92%8CMac%E7%AB%AF%E4%BD%BF%E7%94%A8Apple-News.%20%20%20%20%20%20%20%20%20&font=Source%20Code%20Pro&logo=https%3A%2F%2Fvkceyugu.cdn.bspapp.com%2FVKCEYUGU-imgbed%2Fc5ee90d1-3a9a-4264-8887-f9b94ea0756b.PNG&owner=1&pattern=Floating%20Cogs&theme=Dark)  
 
-> **访问该页面时请勿打开浏览器的自动翻译，否则网页会乱码.   欢迎🌟Star！❤️**  
+ **访问该页面时请勿打开浏览器的自动翻译，否则网页会乱码.   欢迎🌟Star！❤️**  
+ 
+> 快速跳转:  [iOS端教程](https://github.com/ShadowsSide/Apple-News#-ios%E7%AB%AF-apple-news%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B420201011) / [Mac端教程](https://github.com/ShadowsSide/Apple-News#-mac%E7%AB%AF-apple-news)  
 
 # 💬 交流
 
@@ -19,14 +21,14 @@
 
 * **演示地址: https://youtu.be/3e0ROyrlMD0**  
 
-**🐝 非蜂窝网络版设备可无视该教程(没有读取到你的SIM卡运营商)**  
+**🐝 无线局域网版设备可无视该教程(没有读取到你的SIM卡运营商)**  
 
-**💻 Mac用户请往下翻**  
+**[ 💻 Mac端教程点这 ](https://github.com/ShadowsSide/Apple-News#-mac%E7%AB%AF-apple-news)**  
 
 ## 👨🏻‍💻 使用说明    
 *  若添加快捷指令时提示 "无法打开不受信任的快捷指令" 请先随便运行一个快捷指令并前往:设置➡️快捷指令➡️允许不受信任的第三方快捷指令.  
 *  请设置手机地区与你ID订阅的Apple news地区一致(请于设置➡️通用➡️语言与地区里设置地区，如美区id就将地区设为美国，以此类推).  
-*  此快捷指令无法设置地区与定位设置.由于图片格式过长请前往教程底部查看，并按照图片内容设置定位选项。 
+*  此快捷指令无法设置地区与定位设置.请按照图片内容设置定位选项。[点我查看定位设置图片](https://github.com/ShadowsSide/Apple-News#-ios%E5%AE%9A%E4%BD%8D%E8%AE%BE%E7%BD%AE%E5%9B%BE%E7%89%87)   
 *  捷径完成解锁后可以关闭飞行模式使用蜂窝数据继续浏览🥳.  
 *  Enjoy Apple News!🎉  
 
