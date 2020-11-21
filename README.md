@@ -3,16 +3,10 @@
 > **访问该页面时请勿打开浏览器的自动翻译，否则网页会乱码.   欢迎🌟Star！❤️**  
 
 # 💬 交流
-> 讨论组/频道/反馈bot  
 
-[<img width="150px" src="icon/Group.jpg" />](https://t.me/GodlyGroup)
+[<img width="150px" src="icon/channel.jpg" />](https://t.me/GodlyNews1/38)
 
-[<img width="150px" src="icon/channel.jpg" />](https://t.me/GodlyNews1)
-
-[<img width="200px" src="icon/bot.png" />](https://t.me/ShadowsSide_bot)  
-
-
-
+ 
 # 🔍查询您的Apple ID归属国家/地区是否提供该服务:
 * **https://support.apple.com/zh-cn/HT204411**  
 
