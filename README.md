@@ -1,20 +1,21 @@
-![Apple-News](https://socialify.git.ci/ShadowsSide/Apple-News/image?description=1&descriptionEditable=%F0%9F%94%8D%20iOS%E5%92%8CMac%E7%AB%AF%E4%BD%BF%E7%94%A8Apple-News.%20%20%20%20%20%20%20%20%20&font=Source%20Code%20Pro&logo=https%3A%2F%2Fvkceyugu.cdn.bspapp.com%2FVKCEYUGU-imgbed%2Fc5ee90d1-3a9a-4264-8887-f9b94ea0756b.PNG&owner=1&pattern=Floating%20Cogs&theme=Dark)  
+<img width="900px" src="icon/apple-News.svg" />
 
  **访问该页面时请勿打开浏览器的自动翻译，否则网页会乱码.   欢迎🌟Star！❤️**  
 
 ## 🧭 快速导航 
 * 使用教程
-  * [iOS端教程](#-ios端-apple-news)
-  * [Mac端教程](#-mac端-apple-news)   
+  * [📱 iOS端教程](#-ios端-apple-news)
+  * [💻 Mac端教程](#-mac端-apple-news)   
 
 * Tips
-  * [使用说明](#-使用说明)
-  * [注意事项](#%EF%B8%8F-注意事项)
-  * [常见报错](#%EF%B8%8F-常见报错)
-  * [iOS定位设定](#-ios定位设置图片)
-  * [分流地址](#-分流地址)
+  * [👨🏻‍💻 使用说明](#-使用说明)
+  * [❗️ 注意事项](#%EF%B8%8F-注意事项)
+  * [⁉️ 常见报错](#%EF%B8%8F-常见报错)
+  * [💁🏻‍ 分流地址](#-分流地址)
+  * [📍 iOS定位设定](#-ios定位设置图片)
 
-# 💬 交流
+
+# 💬 交流反馈
 
 [<img width="150px" src="icon/channel.jpg" />](https://t.me/GodlyNews1/38)
 
@@ -47,7 +48,7 @@
   *  **若解锁失败可先尝试完全关闭WI-FI开关再运行快捷指令**  
 
 
-> **👉 点击此脚本右上角"..."将本快捷指令添加到主屏幕，可以更便捷使用该捷径。**  
+> **👉 点击此脚本右上角"..."将此快捷指令添加到主屏幕，可更便捷使用。**  
 
 ### ⁉️ 常见报错  
 
@@ -60,7 +61,7 @@
 *  此问题通常是网络环境导致,如已添加分流请更换节点后再试.  
  
 ### 💁🏻‍ 分流地址
-> **请参考神机规则设置Apple News的分流(全局代理也行),建议分流添加完毕后关闭软件代理并重启代理软件以确保分流能正常工作。**  
+ **请参考神机规则设置Apple News的分流(全局代理也行),建议分流添加完毕后关闭软件代理并重启代理软件以确保分流能正常工作。**  
   
 | 软件下载地址 | News.list|
 | :-: | :-: |
