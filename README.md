@@ -9,9 +9,10 @@
 
 * Tips
   * [使用说明](#-使用说明)
-  * [注意事项](#-注意事项)
+  * [注意事项](#%EF%B8%8F-注意事项)
   * [常见报错](#%EF%B8%8F-常见报错)
   * [iOS定位设定](#-ios定位设置图片)
+  * [分流地址](#-分流地址)
 
 # 💬 交流
 
@@ -30,7 +31,7 @@
 
 * **演示地址: https://youtu.be/3e0ROyrlMD0**  
 
-**🐝 无线局域网版设备可无视该教程(因为系统会检测 SIM 卡运营商。)**  
+**🐝 无线局域网版设备可无视该教程(因为系统会检测 SIM 卡运营商.)**  
 
 ## 👨🏻‍💻 使用说明
 *  若添加快捷指令时提示 "无法打开不受信任的快捷指令" 请先随便运行一个快捷指令并前往:设置➡️快捷指令➡️允许不受信任的第三方快捷指令.  
@@ -40,9 +41,11 @@
 *  Enjoy Apple News!🎉  
 
 ### ❗️ 注意事项
+  *  **双卡的用户如果遇到无法在非飞行模式下解锁请尝试切换到单卡模式,若依旧失败请反馈给我.**
   *  **注意:该捷径运行后会将你的系统地图提供商从高德地图切换成国外的TOMTOM地图。(使用蜂窝数据打开系统地图即可还原，但已解锁的News将同时失效，如需再次使用请重新运行一遍快捷指令.)**  
   *  **脚本运行完成后自动打开那次通常会报错.请手动关闭News和系统自带地图后重新打开News即可正常浏览.（⚠️节点需选择提供Apple-News服务的地区，否则打开后仍会提示你所在的国家或地区不支持该服务）** 
   *  **若解锁失败可先尝试完全关闭WI-FI开关再运行快捷指令**  
+
 
 > **👉 点击此脚本右上角"..."将本快捷指令添加到主屏幕，可以更便捷使用该捷径。**  
 
@@ -58,13 +61,17 @@
  
 ### 💁🏻‍ 分流地址
 > **请参考神机规则设置Apple News的分流(全局代理也行),建议分流添加完毕后关闭软件代理并重启代理软件以确保分流能正常工作。**  
- 
-搬运的Apple-News分流：   
-| 软件 | 分流地址 |
+  
+| 软件下载地址 | News.list|
 | :-: | :-: |
-| [Surge 4](https://apps.apple.com/us/app/surge-4/id1442620678) / [Loon](https://apps.apple.com/us/app/loon/id1373567447) | [分流地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/News.list) |
-| [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) | [分流地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/News.list)  |
-| Apple相关服分流 | [Quantumult X](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/News.list) / [Surge或Loon](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list)
+| [Surge 4](https://apps.apple.com/us/app/surge-4/id1442620678) / [Loon](https://apps.apple.com/us/app/loon/id1373567447) | [地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/News.list) |
+| [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) | [地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/News.list)  |
+| [Clash(已兼容intel和M1版Mac)](https://github.com/Fndroid/clash_for_windows_pkg/releases) | [地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Apple/News.yaml)   
+
+
+| Apple.list|
+| :-: | 
+ |[Quantumult X](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/Apple.list) / [Surge或Loon](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list) / [Clash](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Apple/Apple.yaml) |
 
 # 💻 Mac端 Apple-News  
 
@@ -74,7 +81,7 @@
 4. 打开Apple News.  
 5. Successful,Enjoy Apple News!🎉  
 
-> **若单独添加Apple News分流无效,可尝试添加Apple相关服务分流,里面包含了HOST-SUFFIX,apple.com可避免因遗漏导致无法使用.若还是不在服务区域应考虑节点问题.**
+> **若单独添加Apple News分流无效,可尝试添加Apple.list,里面包含了HOST-SUFFIX,apple.com可避免因遗漏导致无法使用.若还是不在服务区域应考虑节点问题.**
 
 # 📍 iOS定位设置图片 
 
