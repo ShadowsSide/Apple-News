@@ -42,7 +42,7 @@
 * 当前版本加入了版本更新检测,请使用以往版本的下载新捷径.
 * [完整版](https://www.icloud.com/shortcuts/6a5e30ed51754ea19456caa3e0a872e4) / [简化版](https://www.icloud.com/shortcuts/a2478dc84da6414fa764aadb05596209)  
 
-### 捷径加入提供使用Wi-Fi或蜂窝网络继续浏览的选项,同时自动关闭飞行模式(需配合自动化使用) 
+### 提供使用Wi-Fi或蜂窝网络继续浏览的选项的捷径,同时自动关闭飞行模式(需配合自动化使用) 
 * [捷径地址](https://www.icloud.com/shortcuts/c185f1ee9c964e9cb66d0d592986bf1e)
 方法:
 1.打开快捷指令app,在下方找到自动化
