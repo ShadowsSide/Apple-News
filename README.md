@@ -43,13 +43,17 @@
 * [完整版](https://www.icloud.com/shortcuts/6a5e30ed51754ea19456caa3e0a872e4) / [简化版](https://www.icloud.com/shortcuts/a2478dc84da6414fa764aadb05596209)  
 
 ### 提供使用Wi-Fi或蜂窝网络继续浏览的选项的捷径,同时自动关闭飞行模式(需配合自动化使用) 
+<img width="500px" src="icon/change.jpg" />  
+
 * [捷径地址](https://www.icloud.com/shortcuts/c185f1ee9c964e9cb66d0d592986bf1e)
-方法:
-1.打开快捷指令app,在下方找到自动化
 
-2.点击右上方➕,创建个人自动化,选择App,选择News,状态选择已关闭,进入下一步.
+使用方法: 
 
-3.添加操作,选择app➡️选择快捷指令➡️选择运行快捷指令➡️选择“模式切换“➡️关闭运行前询问➡️保存.
+1.打开快捷指令app,在下方找到自动化  
+
+2.点击右上方➕,创建个人自动化,选择App,选择News,状态选择已关闭,进入下一步.  
+
+3.添加操作,选择app➡️选择快捷指令➡️选择运行快捷指令➡️选择“模式切换“➡️关闭运行前询问➡️保存.  
 
 * **演示地址: https://youtu.be/3e0ROyrlMD0 (预计12.25晚更新)**  
 
