@@ -49,7 +49,7 @@
 <img width="500px" src="icon/change.jpg" />  
  
 ## **演示地址**:   
-[<img width="100px" src="icon/YouTube.PNG" />]((https://t.me/GodlyNews1/38))
+[<img width="100px" src="icon/YouTube.PNG" />](https://youtu.be/MVwFHPCoGg0)
 
 
 **🐝 无线局域网版设备可无视该教程(因为系统会检测 SIM 卡运营商.)**  
