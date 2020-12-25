@@ -36,16 +36,16 @@
 
 # 📱 iOS端 Apple-News    
 
-**快捷指令地址:(更新时间:2020.12.25 文本教程未实时同步更新，数日内将完善.)**
+**快捷指令地址:(更新时间:2020.12.26)**
 > **为完成前置设置的用户提供简化版,去除了必要的前置设置提示,耗时缩短,节约生命🐶.从未使用过捷径的请先使用完整版**   
 
 * 当前版本加入了版本更新检测,请使用以往版本的下载新捷径.提供使用Wi-Fi或蜂窝网络继续浏览的选项的捷径,同时自动关闭飞行模式  
-* [完整版](https://www.icloud.com/shortcuts/6a5e30ed51754ea19456caa3e0a872e4) / [简化版](https://www.icloud.com/shortcuts/a2478dc84da6414fa764aadb05596209) / [浏览模式捷径](https://www.icloud.com/shortcuts/c185f1ee9c964e9cb66d0d592986bf1e)  
+* [完整版](https://www.icloud.com/shortcuts/6a5e30ed51754ea19456caa3e0a872e4) / [简化版](https://www.icloud.com/shortcuts/a2478dc84da6414fa764aadb05596209) / [切换浏览模式捷径](https://www.icloud.com/shortcuts/c185f1ee9c964e9cb66d0d592986bf1e)  
 
 
 <img width="500px" src="icon/change.jpg" />  
  
-* **演示地址: https://youtu.be/MVwFHPCoGg0 **  
+* **演示地址: https://youtu.be/MVwFHPCoGg0**  
 
 **🐝 无线局域网版设备可无视该教程(因为系统会检测 SIM 卡运营商.)**  
 
