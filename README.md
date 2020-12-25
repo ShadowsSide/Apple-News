@@ -16,7 +16,7 @@
   * [📍 iOS定位设定](#-ios定位设置图片)
 
 
-# 💬 交流反馈
+# 💬 更新推送频道
 
 [<img width="150px" src="icon/channel.jpg" />](https://t.me/GodlyNews1/38)
 
@@ -40,12 +40,10 @@
 > **为完成前置设置的用户提供简化版,去除了必要的前置设置提示,耗时缩短,节约生命🐶.从未使用过捷径的请先使用完整版**   
 
 * 当前版本加入了版本更新检测,请使用以往版本的下载新捷径.
-* [完整版](https://www.icloud.com/shortcuts/6a5e30ed51754ea19456caa3e0a872e4) / [简化版](https://www.icloud.com/shortcuts/a2478dc84da6414fa764aadb05596209)  
+* [完整版](https://www.icloud.com/shortcuts/6a5e30ed51754ea19456caa3e0a872e4) / [简化版](https://www.icloud.com/shortcuts/a2478dc84da6414fa764aadb05596209) / [浏览模式捷径](https://www.icloud.com/shortcuts/c185f1ee9c964e9cb66d0d592986bf1e)  
 
 ### 提供使用Wi-Fi或蜂窝网络继续浏览的选项的捷径,同时自动关闭飞行模式(需配合自动化使用) 
 <img width="500px" src="icon/change.jpg" />  
-
-* [捷径地址](https://www.icloud.com/shortcuts/c185f1ee9c964e9cb66d0d592986bf1e)
 
 使用方法: 
 
@@ -69,9 +67,8 @@
 ### ❗️ 注意事项
   *  **双卡的用户如果遇到无法在非飞行模式下解锁请尝试切换到单卡模式,若依旧失败请反馈给我.**
   *  **注意:该捷径运行后会将你的系统地图提供商从高德地图切换成国外的TOMTOM地图。(使用蜂窝数据打开系统地图即可还原，但已解锁的News将同时失效，如需再次使用请重新运行一遍快捷指令.)**  
-  *  **脚本运行完成后自动打开那次通常会报错.请手动关闭News和系统自带地图后重新打开News即可正常浏览.（⚠️节点需选择提供Apple-News服务的地区，否则打开后仍会提示你所在的国家或地区不支持该服务）**
-  *  **若单独添加Apple News分流无效,可尝试添加Apple.list,里面包含了HOST-SUFFIX,apple.com可避免因遗漏导致无法使用.若还是不在服务区域应考虑节点问题.**
-  *  **若解锁失败可先尝试完全关闭WI-FI开关再运行快捷指令**  
+  *  **⚠️节点需选择提供Apple-News服务的地区，否则打开后仍会提示你所在的国家或地区不支持该服务  **
+  *  **若单独添加Apple News分流无效,可尝试添加Apple.list,里面包含了HOST-SUFFIX,apple.com可避免因遗漏导致无法使用.若还是提示不在服务区域应考虑节点问题.** 
 
 
 > **👉 点击此脚本右上角"..."将此快捷指令添加到主屏幕，可更便捷使用。**  
