@@ -43,7 +43,7 @@
 - 当前版本加入了版本更新检测,请使用以往版本的下载新捷径.  
 - 提供使用Wi-Fi或蜂窝网络继续浏览的选项的捷径,同时自动关闭飞行模式   
 
-* [完整版](https://www.icloud.com/shortcuts/c7b1f89420634917862f4212928c4838) / [简化版](https://www.icloud.com/shortcuts/ec043438c6934979879e12603fe853bf)  
+* [完整版](https://www.icloud.com/shortcuts/7a4f430fd5134d089cf230b8113c917e) / [简化版](https://www.icloud.com/shortcuts/daf7c97cf81242c4b8a26c030eac68e6)  
 
 
 <img width="500px" src="icon/change.jpg" />  
