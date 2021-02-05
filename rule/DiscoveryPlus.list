@@ -1,10 +1,10 @@
 # > DiscoveryPlus
-DOMAIN-SUFFIX,discoveryplus.com
-DOMAIN-SUFFIX,disco-api.com
-DOMAIN,www.discoveryplus.com
-DOMAIN,prod-realmservice.mercury.dnitv.com
-DOMAIN,p.typekit.net
-DOMAIN,use.typekit.net
-DOMAIN,logx.optimizely.com
-DOMAIN-KEYWORD,us1-prod-
+DOMAIN-SUFFIX,discoveryplus.com,DiscoveryPlus
+DOMAIN-SUFFIX,disco-api.com,DiscoveryPlus
+DOMAIN,www.discoveryplus.com,DiscoveryPlus
+DOMAIN,prod-realmservice.mercury.dnitv.com,DiscoveryPlus
+DOMAIN,p.typekit.net,DiscoveryPlus
+DOMAIN,use.typekit.net,DiscoveryPlus
+DOMAIN,logx.optimizely.com,DiscoveryPlus
+DOMAIN-KEYWORD,us1-prod-,DiscoveryPlus
 
