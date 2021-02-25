@@ -21,9 +21,9 @@
 
 [<img width="150px" src="icon/channel.jpg" />](https://t.me/GodlyNews1/38)
 
-# 探索新的方法中....
+# 探索新的方法中....  
 
-**正在探索更为便捷的解锁方法,如果您懂得网络调试方面的技术 请联系 https://t.me/ShadowsSide_bot 期待与您共同探讨😄 **  
+**正在探索更为便捷的解锁方法,如果您懂得网络调试方面的技术 请联系 https://t.me/ShadowsSide_bot 期待与您共同探讨😄**  
 
 
 ## 🔍查询您的Apple ID归属国家/地区是否提供该服务:
