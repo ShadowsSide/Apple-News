@@ -20,7 +20,11 @@
 
 [<img width="150px" src="icon/channel.jpg" />](https://t.me/GodlyNews1/38)
 
- 
+# 探索新的方法中....
+
+**正在探索更为便捷的解锁方法,如果您懂得网络调试方面的技术 请联系 https://t.me/ShadowsSide_bot 期待与您共同探讨😄 **  
+
+
 ## 🔍查询您的Apple ID归属国家/地区是否提供该服务:
 * **https://support.apple.com/zh-cn/HT204411**  
 
@@ -28,22 +32,22 @@
 # 💻 Mac端 Apple-News  
 
 1. 前往系统偏好设置 > 语言与地区 > 将地区更改为美国. Apple News的App将自动出现. 若Apple News图标未自动出现在桌面,可尝试前往: https://news.apple.com/ 点击免费试用一个月将自动跳转并出现App.  
-2. 开启全局代理/使用分流 (**需要包括map域名:DOMAIN,gspe21-ssl.ls.apple.com , DOMAIN,gspe1-ssl.ls.apple.com. gspe后面的数字有时会变更导致分流失效,请保持分流为最新**)  
+2. 开启全局代理/使用分流 (**需要包括map域名:DOMAIN,gspe*-ssl.ls.apple.com 星号为数字,不同的数字代表不同的功能后,请保持分流为最新**)  
 3. 打开Mac端系统地图,系统将自动切换到TOMTOM提供的数据. 此时地图将自动刷新,左下角的高德地图标志将消失.  
 4. 打开Apple News.  
 5. Successful,Enjoy Apple News!🎉  
 
 
-# 📱 iOS端 Apple-News    
+# 📱 iOS Apple-News    
 
 **快捷指令地址:(更新时间:2020.12.26)**
 > **为完成前置设置的用户提供简化版,去除了必要的前置设置提示,耗时缩短,节约生命🐶.从未使用过捷径的请先使用完整版**   
 
-**本次跟新内容:**
-- 当前版本加入了版本更新检测,请使用以往版本的下载新捷径.  
+**Feature:**
+- 捷径已加入了版本更新检测,请使用以往版本的下载新捷径.  
 - 提供使用Wi-Fi或蜂窝网络继续浏览的选项的捷径,同时自动关闭飞行模式   
-- 意外发现,解锁的同时Siri的搜索引擎也从百度变为了Google🌚,不喜欢Siri用百度搜索引擎的有福了.
-- 理论上不会再出现: 提示不在服务范围内,点击quit退出再打开的app的操作,捷径运行完毕即可浏览内容.(前提是必须等待WI-FI连接成功后才进入下一步)  
+- 解锁的同时Siri的搜索引擎也从百度变为了Google
+- 理论上不会再出现: 提示不在服务范围内,点击quit退出再打开的app的操作,捷径运行完毕即可浏览内容.(**前提是必须等待WI-FI连接成功后才进入下一步**)  
 
 * [完整版](https://www.icloud.com/shortcuts/7a4f430fd5134d089cf230b8113c917e) / [简化版](https://www.icloud.com/shortcuts/daf7c97cf81242c4b8a26c030eac68e6)  
 
@@ -54,7 +58,7 @@
 [<img width="100px" src="icon/YouTube.PNG" />](https://youtu.be/MVwFHPCoGg0)
 
 
-**🐝 无线局域网版设备可无视该教程(因为系统会检测 SIM 卡运营商.)**  
+**🐝 无线局域网版设备可无视该教程(因为系统会检测运营商的MCC代码.)**  
 
 ## 👨🏻‍💻 使用说明
 *  若添加快捷指令时提示 "无法打开不受信任的快捷指令" 请先随便运行一个快捷指令并前往:设置 > 快捷指令 > 允许不受信任的第三方快捷指令.  
