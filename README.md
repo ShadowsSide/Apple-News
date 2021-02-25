@@ -5,7 +5,8 @@
 ## 🧭 快速导航 
 * 使用教程
   * [💻 Mac端教程](#-mac端-apple-news)
-  * [📱 iOS端教程](#-ios端-apple-news)
+  * [📱 iOS/iPad教程](#-iOS/iPad-apple-news)
+  * 
    
 
 * Tips
@@ -38,7 +39,7 @@
 5. Successful,Enjoy Apple News!🎉  
 
 
-# 📱 iOS Apple-News    
+# 📱 iOS/iPad Apple-News    
 
 **快捷指令地址:(更新时间:2020.12.26)**
 > **为完成前置设置的用户提供简化版,去除了必要的前置设置提示,耗时缩短,节约生命🐶.从未使用过捷径的请先使用完整版**   
