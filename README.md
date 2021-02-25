@@ -5,8 +5,8 @@
 ## 🧭 快速导航 
 * 使用教程
   * [💻 Mac端教程](#-mac端-apple-news)
-  * [📱 iOS/iPad教程](#-iOS/iPad-apple-news)
-  * 
+  * [📱 iOS/iPad教程](#-iosipad-apple-news)
+  * [演示地址](#演示地址)
    
 
 * Tips
