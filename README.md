@@ -1,6 +1,37 @@
-<img width="900px" src="icon/apple-News.svg" />
 
+<p align="center">
+<img width="900" src="icon/apple-News.svg" />
+</p>
+
+        
+<p align="center">
+     <a href="#Github Release">
+        <img src="https://img.shields.io/github/v/release/shadowsside/apple-news"
+            alt="Realese"/></a>
+     <a href="#Github Star" >
+        <img src="https://img.shields.io/github/stars/ShadowsSIde/Apple-News?color=yellow&logo=github&style=plastic" 
+             alt="apple-news_star"/></a>
+      <a href="https://github.com/shadowsside"  >
+        <img src="https://img.shields.io/github/followers/shadowsside?color=red&logo=github&style=plastic"
+            alt="Github Follwer"></a>
+     <a href="#Github watch" >
+        <img src="https://img.shields.io/github/watchers/shadowsside/apple-news?color=green&logo=github&style=plastic"
+            alt="apple-news_watch"/></a>
+    <a href="#GitHub Forks" >
+        <img src="https://img.shields.io/github/forks/shadowsside/apple-news?color=green&logo=github&style=plastic" 
+             alt="apple-news_fork"/></a>
+    <a href="https://github.com/ShadowsSide/Apple-News/blob/master/LICENSE" >
+        <img src="https://img.shields.io/github/license/shadowsside/apple-news" 
+             alt="apple-news_license"  /></a>
+</p>
+
+
+
+
+## 前言
  **访问该页面时请勿打开浏览器的自动翻译，否则网页会乱码.   欢迎🌟Star！❤️**  
+
+
  
  ## 特别声明
 
@@ -30,17 +61,22 @@
   * [📍 iOS定位设定](#-ios定位设置图片)
 
 
-# 💬 更新推送频道
+# 💬 交流
 
-[<img width="150px" src="icon/channel.jpg" />](https://t.me/GodlyNews1/38)
-
-# 探索新的方法中....  
-
-**正在探索更为便捷的解锁方法,如果您懂得网络调试方面的技术 请联系 https://t.me/ShadowsSide_bot 期待与您共同探讨😄**  
+<p
+    <a href="https://t.me/GodlyNews1" >
+        <img width="200x" img src="https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram" 
+             alt="https://t.me/GodlyGroup"/></a>             
+     <a href="https://t.me/GodlyNews1" >
+        <img width="184x" img src="https://img.shields.io/badge/Telegram-Group-blue?style=flat&logo=telegram"
+              alt="https://t.me/GodlyGroup" /></a>
+ </p>
+ 
 
 
 ## 🔍查询您的Apple ID归属国家/地区是否提供该服务:
-* **https://support.apple.com/zh-cn/HT204411**  
+
+[<img width="300px" src="https://img.shields.io/badge/Apple%20媒体服务的提供情况-Link-blue?style=flat&logo=apple" />](https://support.apple.com/zh-cn/HT204411])
 
 
 # 💻 Mac端 Apple-News  
@@ -63,13 +99,21 @@
 - 解锁的同时Siri的搜索引擎也从百度变为了Google
 - 理论上不会再出现: 提示不在服务范围内,点击quit退出再打开的app的操作,捷径运行完毕即可浏览内容.(**前提是必须等待WI-FI连接成功后才进入下一步**)  
 
-* [完整版](https://www.icloud.com/shortcuts/7a4f430fd5134d089cf230b8113c917e) / [简化版](https://www.icloud.com/shortcuts/daf7c97cf81242c4b8a26c030eac68e6)  
+
+<p 
+      <a href="https://bit.ly/3oOvomb" >
+        <img width="200x" img src="https://img.shields.io/badge/快捷指令-完整版-blue?style=flat&logo=apple" 
+             alt="shortcuts-sample"/></a>   
+     <a href="http://bit.ly/2QMw9zu" >
+        <img width="200x"img src="https://img.shields.io/badge/快捷指令-简洁版-blue?style=flat&logo=apple" 
+             alt="shortcuts-sample"/></a>        
+ </p>             
 
 
 <img width="500px" src="icon/change.jpg" />  
  
 ## **演示地址**:   
-[<img width="100px" src="icon/YouTube.PNG" />](https://youtu.be/MVwFHPCoGg0)
+[<img width="200px" src="https://img.shields.io/youtube/views/MVwFHPCoGg0?logo=youtube" />](https://youtu.be/MVwFHPCoGg0)
 
 
 **🐝 无线局域网版设备可无视该教程(因为系统会检测运营商的MCC代码.)**  
