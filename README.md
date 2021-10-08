@@ -66,10 +66,10 @@
 <p
     <a href="https://t.me/GodlyNews1" >
         <img width="200x" img src="https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram" 
-             alt="https://t.me/GodlyGroup"/></a>             
-     <a href="https://t.me/GodlyNews1" >
+             alt="Telegram Channle "/></a>             
+     <a href="https://t.me/GodlyGroup" >
         <img width="184x" img src="https://img.shields.io/badge/Telegram-Group-blue?style=flat&logo=telegram"
-              alt="https://t.me/GodlyGroup" /></a>
+              alt="Telegram Group" /></a>
  </p>
  
 
