@@ -63,7 +63,7 @@
 
 # 💬 交流
 
-<p
+<p>
     <a href="https://t.me/GodlyNews1" >
         <img width="200x" img src="https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram" 
              alt="Telegram Channle "/></a>             
@@ -76,13 +76,18 @@
 
 ## 🔍查询您的Apple ID归属国家/地区是否提供该服务:
 
-[<img width="300px" src="https://img.shields.io/badge/Apple%20媒体服务的提供情况-Link-blue?style=flat&logo=apple" />](https://support.apple.com/zh-cn/HT204411])
-
-
+<p>
+    <a href="https://support.apple.com/zh-cn/HT204411" >
+        <img width="300x" img src="https://img.shields.io/badge/Apple%20媒体服务的提供情况-Link-blue?style=flat&logo=apple"
+             alt="Telegram Channle "/></a>   
+        
+ </p>
+ 
+ 
 # 💻 Mac端 Apple-News  
 
 1. 前往系统偏好设置 > 语言与地区 > 将地区更改为美国. Apple News的App将自动出现. 若Apple News图标未自动出现在桌面,可尝试前往: https://news.apple.com/ 点击免费试用一个月将自动跳转并出现App.  
-2. 开启全局代理/使用分流 (**需要包括map域名:DOMAIN,gspe*-ssl.ls.apple.com 星号为数字,不同的数字代表不同的功能后,请保持分流为最新**)  
+2. 开启全局代理/使用分流 (**需要包括: HOST-SUFFIX,apple.com 并保持分流为最新**)  
 3. 打开Mac端系统地图,系统将自动切换到TOMTOM提供的数据. 此时地图将自动刷新,左下角的高德地图标志将消失.  
 4. 打开Apple News.  
 5. Successful,Enjoy Apple News!🎉  
@@ -95,27 +100,24 @@
 - 提供使用Wi-Fi或蜂窝网络继续浏览的选项的捷径,同时自动关闭飞行模式   
 - 解锁的同时Siri的搜索引擎也从百度变为了Google
 - 理论上不会再出现: 提示不在服务范围内,点击quit退出再打开的app的操作,捷径运行完毕即可浏览内容.(**前提是必须等待WI-FI连接成功后才进入下一步**)  
-- 
-**快捷指令地址:(更新时间:2021.10.08)**
-> **为完成前置设置的用户提供简化版,去除了必要的前置设置提示,耗时缩短,节约生命🐶.从未使用过捷径的请先使用完整版**   
+ 
+**快捷指令地址:(更新时间:2021.10.10)**
+> **注: v2021.10.10 起完整版和简化版已合并为一个捷径**   
 
-<p 
-      <a href="https://bit.ly/3oOvomb" >
-        <img width="200x" img src="https://img.shields.io/badge/快捷指令-完整版-blue?style=flat&logo=apple" 
-             alt="shortcuts-sample"/></a>   
-     <a href="http://bit.ly/2QMw9zu" >
-        <img width="200x"img src="https://img.shields.io/badge/快捷指令-简洁版-blue?style=flat&logo=apple" 
+<p>
+     <a href="https://bit.ly/30ewaRe" >
+        <img width="200x"img src="https://img.shields.io/badge/快捷指令-v2021.10.10-blue?style=flat&logo=apple" 
              alt="shortcuts-sample"/></a>        
  </p>             
 
 
-<img width="500px" src="icon/change.jpg" />  
+<img width="500px" src="icon/Switch.jpg" />  
  
 ## **演示地址**:   
 [<img width="200px" src="https://img.shields.io/youtube/views/MVwFHPCoGg0?logo=youtube" />](https://youtu.be/MVwFHPCoGg0)
 
 
-**🐝 无线局域网版设备可无视该教程(因为系统会检测运营商的MCC代码.)**  
+**🐝 无线局域网版设备可无视该教程(因为系统只会在插卡的情况下,检测运营商的MCC代码.)**  
 
 ## 👨🏻‍💻 使用说明
 *  若添加快捷指令时提示 "无法打开不受信任的快捷指令" 请先随便运行一个快捷指令并前往:设置 > 快捷指令 > 允许不受信任的第三方快捷指令.  
