@@ -105,7 +105,7 @@
 > **注: v2021.10.10 起完整版和简化版已合并为一个捷径**   
 
 <p>
-     <a href="https://bit.ly/30ewaRe" >
+     <a href="https://bit.ly/3MH7io6" >
         <img width="200x"img src="https://img.shields.io/badge/快捷指令-v2021.10.10-blue?style=flat&logo=apple" 
              alt="shortcuts-sample"/></a>        
  </p>             
