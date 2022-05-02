@@ -50,8 +50,7 @@
 * 使用教程
   * [💻 Mac端教程](#-mac端-apple-news)
   * [📱 iOS/iPad教程](#-iosipad-apple-news)
-  * [演示地址](#演示地址)
-   
+
 
 * Tips
   * [👨🏻‍💻 使用说明](#-使用说明)
@@ -59,7 +58,8 @@
   * [⁉️ 常见报错](#%EF%B8%8F-常见报错)
   * [💁🏻‍ 分流地址](#-分流地址)
   * [📍 iOS定位设定](#-ios定位设置图片)
-
+## **演示地址**:   
+[<img width="200px" src="https://img.shields.io/youtube/views/MVwFHPCoGg0?logo=youtube" />](https://youtu.be/MVwFHPCoGg0)
 
 # 💬 交流
 
@@ -101,20 +101,19 @@
 - 解锁的同时Siri的搜索引擎也从百度变为了Google
 - 理论上不会再出现: 提示不在服务范围内,点击quit退出再打开的app的操作,捷径运行完毕即可浏览内容.(**前提是必须等待WI-FI连接成功后才进入下一步**)  
  
-**快捷指令地址:(更新时间:2021.10.10)**
+**快捷指令地址:(更新时间:2022.05.02)**
 > **注: v2021.10.10 起完整版和简化版已合并为一个捷径**   
 
 <p>
      <a href="https://bit.ly/3MH7io6" >
-        <img width="200x"img src="https://img.shields.io/badge/快捷指令-v2021.10.10-blue?style=flat&logo=apple" 
+        <img width="200x"img src="https://img.shields.io/badge/快捷指令-v2022.05.02-blue?style=flat&logo=apple" 
              alt="shortcuts-sample"/></a>        
  </p>             
 
 
 <img width="500px" src="icon/Switch.jpg" />  
  
-## **演示地址**:   
-[<img width="200px" src="https://img.shields.io/youtube/views/MVwFHPCoGg0?logo=youtube" />](https://youtu.be/MVwFHPCoGg0)
+
 
 
 **🐝 无线局域网版设备可无视该教程(因为系统只会在插卡的情况下,检测运营商的MCC代码.)**  
