@@ -149,9 +149,10 @@
   
 | 软件下载地址 | News.list|
 | :-: | :-: |
-| [Surge 4](https://apps.apple.com/us/app/surge-4/id1442620678) / [Loon](https://apps.apple.com/us/app/loon/id1373567447) | [地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/News.list) |
-| [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) | [地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/News.list)  |
-| [Clash(已兼容intel和M1版Mac)](https://github.com/Fndroid/clash_for_windows_pkg/releases) | [地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Apple/News.yaml)   
+| [Surge 4](https://apps.apple.com/us/app/surge-4/id1442620678) / [Loon](https://apps.apple.com/us/app/loon/id1373567447) | [地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleNews/AppleNews.list) |
+| [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) |[地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleNews/AppleNews.list) |
+| [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) | [地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AppleNews/AppleNews.list)  |
+| [Clash(已兼容intel和M1版Mac)](https://github.com/Fndroid/clash_for_windows_pkg/releases) | [地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleNews/AppleNews.list)   
 
 
 | Apple.list|
