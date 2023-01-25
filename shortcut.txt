@@ -2,7 +2,7 @@
        "Apple News解锁":{
                          "url":"https://www.icloud.com/shortcuts/58159fcfc7274ad7ac147c9b129d4ea5",
                          
-                          "版本":"2023.01.25",
+                          "版本":"2023.1.25",
                           
                           "描述":"一键解锁Apple News地区限制，免去手工繁琐流程！",
                           
