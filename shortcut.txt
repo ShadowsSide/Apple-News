@@ -1,5 +1,5 @@
 {
-       "Apple News解锁🔓":{
+       "Apple News解锁":{
                          "url":"https://www.icloud.com/shortcuts/58159fcfc7274ad7ac147c9b129d4ea5",
                          
                           "版本":"2023.01.25",
