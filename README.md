@@ -165,3 +165,8 @@
 **教程图片路径为: 设置 > 隐私 > 定位服务 > 系统服务.(若iOS的GitHub app端无法显示图片请前往网页版,另外直连GitHub也有可能导致图片无法正常显示.)**  
 <img width="500px" src="icon/screenshoot.JPEG" />  
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ShadowsSide/Apple-News&type=Date)](https://star-history.com/#ShadowsSide/Apple-News&Date)
+
+
