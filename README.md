@@ -168,7 +168,7 @@
 <img width="500px" src="icon/iOS15.JPEG" />  
 
 # iOS 17 
-<img width="500px" src="icon/iOS17.JPEG" />  
+<img width="500px" src="icon/iOS17.jpeg" />  
 
 ## Star History
 
