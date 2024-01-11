@@ -103,6 +103,7 @@
  
 **快捷指令地址:(更新时间:2022.05.02)**
 > **注: v2021.10.10 起完整版和简化版已合并为一个捷径**   
+> **快捷指令长期有效，若失效会及时更新。**
 
 <p>
      <a href="https://bit.ly/3MH7io6" >
@@ -162,8 +163,12 @@
 
 # 📍 iOS定位设置图片 
 
-**教程图片路径为: 设置 > 隐私 > 定位服务 > 系统服务.(若iOS的GitHub app端无法显示图片请前往网页版,另外直连GitHub也有可能导致图片无法正常显示.)**  
-<img width="500px" src="icon/screenshoot.JPEG" />  
+**教程图片路径为: 设置 > 隐私与安全性 > 定位服务 > 下滑找到「系统服务」.(若iOS的GitHub app端无法显示图片请前往网页版,另外直连GitHub也有可能导致图片无法正常显示.)**  
+# iOS 15
+<img width="500px" src="icon/iOS15.JPEG" />  
+
+# iOS 17 
+<img width="500px" src="icon/iOS17.JPEG" />  
 
 ## Star History
 
