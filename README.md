@@ -111,10 +111,10 @@
 **快捷指令地址:(更新时间:2025.09.021)**
 -  **注: v2021.10.10 起完整版和简化版已合并为一个捷径**   
 -  **快捷指令长期有效，若失效会及时更新。**  
--  **不适用于iOS/iPadOS 26，详见本文档的「前言」部分**
+-  **不适用于 iOS / iPadOS 26，详见本文档的「前言」部分**
 
 <p>
-     <a href="https://www.icloud.com/shortcuts/3d2b5d8d6be540c5a65c9a7b547109ee" >
+     <a href="https://www.icloud.com/shortcuts/d06b98f832d74946a3b4646df58d444f" >
         <img width="200x"img src="https://img.shields.io/badge/快捷指令-v2025.09.21-blue?style=flat&logo=apple" 
              alt="shortcuts-sample"/></a>        
  </p>             
