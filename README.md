@@ -5,9 +5,6 @@
 
         
 <p align="center">
-     <a href="#Github Release">
-        <img src="https://img.shields.io/github/v/release/shadowsside/apple-news"
-            alt="Realese"/></a>
      <a href="#Github Star" >
         <img src="https://img.shields.io/github/stars/ShadowsSIde/Apple-News?color=yellow&logo=github&style=plastic" 
              alt="apple-news_star"/></a>
@@ -55,16 +52,16 @@
 
 ## 🧭 快速导航 
 * 使用教程
-  * [💻 Mac端教程](#-mac端-apple-news)
-  * [📱 iOS/iPad教程](#-iosipad-apple-news)
+  * [💻 macOS 教程](#-macos)
+  * [📱 iOS / iPadOS 教程]([#-ios--ipados)
 
 
 * Tips
   * [👨🏻‍💻 使用说明](#%E2%80%8D-使用说明)
   * [❗️ 注意事项](#%EF%B8%8F-注意事项)
   * [⁉️ 常见报错](#%EF%B8%8F-常见报错)
-  * [💁🏻‍ 分流地址]([#%E2%80%8D-分流地址))
-  * [📍 iOS定位设定](#-ios定位设置图片)
+  * [💁🏻‍ 分流地址]([#%E2%80%8D-分流地址)
+  * [📍 iOS 定位设定]([#-ios-定位设置ios-15--17)
 ## **演示地址**:   
 [<img width="200px" src="https://img.shields.io/youtube/views/MVwFHPCoGg0?logo=youtube" />](https://youtu.be/MVwFHPCoGg0)
 
@@ -81,7 +78,7 @@
  
 
 
-## 🔍查询您的Apple ID归属国家/地区是否提供该服务:
+## 🔍查询您的 Apple ID 归属国家/地区是否提供该服务:
 
 <p>
     <a href="https://support.apple.com/zh-cn/HT204411" >
@@ -91,16 +88,16 @@
  </p>
  
  
-# 💻 Mac端 Apple-News  
+# 💻 macOS 
 
-1. 前往系统偏好设置 > 语言与地区 > 将地区更改为美国. Apple News的App将自动出现. 若Apple News图标未自动出现在桌面,可尝试前往: https://news.apple.com/ 点击免费试用一个月将自动跳转并出现App.  
+1. 前往系统偏好设置 > 语言与地区 > 将地区更改为美国. Apple News 的 App 将自动出现. 若Apple News图标未自动出现在桌面,可尝试前往: https://news.apple.com/ 点击免费试用一个月，系统将自动弹出 Apple News App.  
 2. 开启全局代理/使用分流 (**需要包括: HOST-SUFFIX,apple.com 并保持分流为最新**)  
-3. 打开Mac端系统地图,系统将自动切换到TOMTOM提供的数据. 此时地图将自动刷新,左下角的高德地图标志将消失.  
+3. 打开Mac端系统地图,系统将自动切换到「TOMTOM」提供的数据. 此时地图将自动刷新,左下角的高德地图标志将消失.  
 4. 打开Apple News.  
 5. Successful,Enjoy Apple News!🎉  
 
 
-# 📱 iOS/iPad Apple-News    
+# 📱 iOS / iPadOS 
 
 **Feature:**
 - 捷径已加入了版本更新检测,请使用以往版本的下载新捷径.  
@@ -125,7 +122,7 @@
 
 
 
-**🐝 无线局域网版设备可无视该教程(因为系统只会在插卡的情况下,检测运营商的MCC代码.)**  
+**🐝 无线局域网版设备可无视该教程(因为系统只会在插卡并获取信号的前提下,才会检测运营商的MCC代码.)**  
 
 ## 👨🏻‍💻 使用说明
 *  若添加快捷指令时提示 "无法打开不受信任的快捷指令" 请先随便运行一个快捷指令并前往:设置 > 快捷指令 > 允许不受信任的第三方快捷指令.  
@@ -154,14 +151,15 @@
 *  此问题通常是网络环境导致,如已添加分流请更换节点后再试.  
  
 ### 💁🏻‍ 分流地址
- **请参考神机规则设置Apple News的分流(全局代理也行),建议分流添加完毕后关闭软件代理并重启代理软件以确保分流能正常工作。**  
+- 请在下方选择并添加对应软件的 Apple News 分流规则（全局代理也行）;
+- 建议在添加分流后，重启代理软件以确保分流能正常工作。
   
 | 软件下载地址 | News.list|
 | :-: | :-: |
 | [Surge 4](https://apps.apple.com/us/app/surge-4/id1442620678) / [Loon](https://apps.apple.com/us/app/loon/id1373567447) | [地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleNews/AppleNews.list) |
 | [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) |[地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleNews/AppleNews.list) |
 | [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) | [地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AppleNews/AppleNews.list)  |
-| [Clash(已兼容intel和M1版Mac)](https://github.com/Fndroid/clash_for_windows_pkg/releases) | [地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleNews/AppleNews.list)   
+| [Clash Verge(兼容 Apple M芯片 和 intel芯片)](https://github.com/Fndroid/clash_for_windows_pkg/releases) | [地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleNews/AppleNews.list)   
 
 
 | Apple.list|
@@ -169,13 +167,16 @@
  |[Quantumult X](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list) / [Surge或Loon](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple.list) / [Clash](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.listl) / [Shadowrocket](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Apple/Apple.list) |
 
 
-# 📍 iOS定位设置图片 
+# 📍 iOS 定位设置（iOS 15 / 17）
 
-**教程图片路径为: 设置 > 隐私与安全性 > 定位服务 > 下滑找到「系统服务」.(若iOS的GitHub app端无法显示图片请前往网页版,另外直连GitHub也有可能导致图片无法正常显示.)**  
-# iOS 15
+**教程图片路径为: 设置 > 隐私与安全性 > 定位服务 > 下滑找到「系统服务」.**
+
+> 若 iOS 的 GitHub app 端无法显示图片,请前往网页版.此外，直连 GitHub 也有可能导致图片无法正常显示.
+  
+## iOS 15
 <img width="500px" src="icon/iOS15.JPEG" />  
 
-# iOS 17 
+## iOS 17 
 <img width="500px" src="icon/iOS17.jpeg" />  
 
 ## Star History
