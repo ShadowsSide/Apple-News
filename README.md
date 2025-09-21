@@ -31,7 +31,7 @@
 ## 前言
  **欢迎🌟Star！❤️**  
 
- ⚠️ 注意： 自 iOS/iPad/macOS 26起，苹果使用了更严格的检测机制来限制用户跨地域使用服务。包括但不限于：
+ ⚠️ 注意： 自 iOS/iPad/macOS 26 起，苹果使用了更严格的检测机制来限制用户跨地域使用服务。包括但不限于：
  - 检测(附近) WiFi 路由器的国家代码；
  - SIM 卡信息（基站/运营商／国家识别）；
  - 当前 GPS 定位。
@@ -114,7 +114,7 @@
 -  **不适用于iOS/iPadOS 26，详见本文档的「前言」部分**
 
 <p>
-     <a href="[https://bit.ly/3MH7io6](https://bit.ly/apple-News-v2025-09-21)" >
+     <a href="https://www.icloud.com/shortcuts/3d2b5d8d6be540c5a65c9a7b547109ee" >
         <img width="200x"img src="https://img.shields.io/badge/快捷指令-v2025.09.21-blue?style=flat&logo=apple" 
              alt="shortcuts-sample"/></a>        
  </p>             
